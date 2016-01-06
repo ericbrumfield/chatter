@@ -1,0 +1,15 @@
+{
+  "name": "chatter",
+  "version": "1.0.0",
+  "description": "CodeMash Test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Brumfield",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "socket.io": "^1.4.0"
+  }
+}
